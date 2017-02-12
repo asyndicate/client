@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Asyndicate</string>
+    <string name="search">Search</string>
+    <string name="username">Username</string>
+    <string name="pass">Password</string>
+    <string name="details">Enter your details below</string>
+    <string name="login">Login</string>
+    <string name="woooo">Woooo!</string>
+    <string name="nothing">Nothing here but me</string>
+    <string name="server_url">http://localhost</string>
+</resources>
